@@ -1,5 +1,7 @@
 # Printing Management System
 
+![Logo](public/images/pms.png)
+
 A role-based web application for running a printing business: orders, products,
 raw materials, suppliers, and a separate dashboard for each staff role.
 
